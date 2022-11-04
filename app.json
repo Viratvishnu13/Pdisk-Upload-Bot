@@ -21,10 +21,10 @@
       "description": "Your bot token, as a string from botfather.",
       "value": ""
     },
-    "API_KEY": {
-      "description": "Your PDisk API Key from https://www.cofilink.com/use-api. Do Sign-in",
-      "value": ""
-    }
+
+
+
+
   },
   "addons": [
   ],
